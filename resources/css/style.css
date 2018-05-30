@@ -9,10 +9,12 @@ body {
   -webkit-background-size: cover;
 }
 
-#name {
-  color: white;
-  text-align: center;
+.text-shadow {
   text-shadow: 1px 1px 2px black;
+}
+
+#name {
+  text-shadow:
   font-family: 'Petit Formal Script', cursive;
   padding-top: 30px;
 }
