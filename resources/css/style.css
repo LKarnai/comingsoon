@@ -10,7 +10,7 @@ body {
 }
 
 .text-shadow {
-  text-shadow: 1px 1px 1px gray;
+  text-shadow: 1px 1px 1px black;
 }
 
 .name {
@@ -22,11 +22,11 @@ p {
   font-size: 1.25rem;
 }
 
-/*
+/* why won't my hover work dammit??*/
 a:hover {
   color: #FB65C6;
   text-shadow: #F9012B;
-}*/
+}
 
 
 @media (min-width: 576px) {
